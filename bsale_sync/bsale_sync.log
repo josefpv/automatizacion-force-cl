@@ -1,0 +1,55 @@
+2025-10-23 23:48:50,390 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761188400
+2025-10-23 23:48:51,220 [INFO] Se encontraron 25 documentos nuevos.
+2025-10-23 23:48:51,220 [INFO] Procesando documento 807127 - PDF: https://app2.bsale.cl/view/18790/1b58dd1e6ffd.pdf
+2025-10-23 23:48:51,221 [INFO] Procesando documento 807135 - PDF: https://app2.bsale.cl/view/18790/674b77e04f26.pdf
+2025-10-23 23:48:51,222 [INFO] Procesando documento 807137 - PDF: https://app2.bsale.cl/view/18790/95d01a15222b.pdf
+2025-10-23 23:48:51,222 [INFO] Procesando documento 807144 - PDF: https://app2.bsale.cl/view/18790/41e2ab1b7957.pdf
+2025-10-23 23:48:51,223 [INFO] Procesando documento 807158 - PDF: https://app2.bsale.cl/view/18790/942c129d89f7.pdf
+2025-10-23 23:48:51,223 [INFO] Procesando documento 807176 - PDF: https://app2.bsale.cl/view/18790/19fe8cb008dc.pdf
+2025-10-23 23:48:51,224 [INFO] Procesando documento 807178 - PDF: https://app2.bsale.cl/view/18790/ee8d6faec150.pdf
+2025-10-23 23:48:51,224 [INFO] Procesando documento 807179 - PDF: https://app2.bsale.cl/view/18790/463f8bc6936e.pdf
+2025-10-23 23:48:51,225 [INFO] Procesando documento 807087 - PDF: https://app2.bsale.cl/view/18790/79822b3f66ee.pdf
+2025-10-23 23:48:51,225 [INFO] Procesando documento 807088 - PDF: https://app2.bsale.cl/view/18790/95465b9b2dad.pdf
+2025-10-23 23:48:51,226 [INFO] Procesando documento 807089 - PDF: https://app2.bsale.cl/view/18790/ad42ac413b94.pdf
+2025-10-23 23:48:51,226 [INFO] Procesando documento 807090 - PDF: https://app2.bsale.cl/view/18790/e25b1fa05022.pdf
+2025-10-23 23:48:51,227 [INFO] Procesando documento 807091 - PDF: https://app2.bsale.cl/view/18790/ff919e965796.pdf
+2025-10-23 23:48:51,228 [INFO] Procesando documento 807132 - PDF: https://app2.bsale.cl/view/18790/8c2a5804fdec.pdf
+2025-10-23 23:48:51,229 [INFO] Procesando documento 807164 - PDF: https://app2.bsale.cl/view/18790/c22571b749cc.pdf
+2025-10-23 23:48:51,230 [INFO] Procesando documento 807170 - PDF: https://app2.bsale.cl/view/18790/a5e56985d24c.pdf
+2025-10-23 23:48:51,230 [INFO] Procesando documento 807181 - PDF: https://app2.bsale.cl/view/18790/9d0bd2691a9d.pdf
+2025-10-23 23:48:51,231 [INFO] Procesando documento 807182 - PDF: https://app2.bsale.cl/view/18790/d040b2264acd.pdf
+2025-10-23 23:48:51,232 [INFO] Procesando documento 807191 - PDF: https://app2.bsale.cl/view/18790/13d2c95b4022.pdf
+2025-10-23 23:48:51,233 [INFO] Procesando documento 807192 - PDF: https://app2.bsale.cl/view/18790/26d8119fe77a.pdf
+2025-10-23 23:48:51,233 [INFO] Procesando documento 807193 - PDF: https://app2.bsale.cl/view/18790/f3fe00d03cd6.pdf
+2025-10-23 23:48:51,234 [INFO] Procesando documento 807195 - PDF: https://app2.bsale.cl/view/18790/5a1ea45208c1.pdf
+2025-10-23 23:48:51,234 [INFO] Procesando documento 807197 - PDF: https://app2.bsale.cl/view/18790/547bf09abb06.pdf
+2025-10-23 23:48:51,235 [INFO] Procesando documento 807149 - PDF: https://app2.bsale.cl/view/18790/16c0549a8fae.pdf
+2025-10-23 23:48:51,235 [INFO] Procesando documento 807150 - PDF: https://app2.bsale.cl/view/18790/27e2ad07fa74.pdf
+2025-10-23 23:48:51,235 [INFO] Esperando 5 minutos...
+
+2025-10-26 19:55:21,328 [INFO] Registros eliminados.
+2025-10-26 19:56:35,981 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 19:56:36,697 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 19:56:36,697 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 19:56:49,383 [INFO] Documento impreso en XP-58IIH
+2025-10-26 19:56:49,385 [INFO] Esperando 5 minutos...
+
+2025-10-26 20:37:37,173 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 20:37:37,960 [INFO] No hay documentos nuevos.
+2025-10-26 20:37:37,960 [INFO] Esperando 5 minutos...
+
+2025-10-26 20:38:02,005 [INFO] Registros eliminados.
+2025-10-26 20:38:13,620 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 20:38:14,253 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 20:38:14,253 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 20:38:19,361 [INFO] Documento impreso en XP-58IIH
+2025-10-26 20:38:19,363 [INFO] Esperando 5 minutos...
+
+2025-10-26 20:42:56,631 [INFO] Registros eliminados.
+2025-10-26 20:43:25,591 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 20:43:26,337 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 20:43:26,337 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 20:43:30,852 [INFO] Documento impreso en XP-58IIH
+2025-10-26 20:43:30,856 [INFO] Esperando 5 minutos...
+
+2025-10-26 20:45:09,357 [INFO] Documento encontrado: ID=807288, URL_PDF=https://app2.bsale.cl/view/18790/a23353ffe12e.pdf, Fecha_Procesado=2025-10-26T20:43:30.853756
