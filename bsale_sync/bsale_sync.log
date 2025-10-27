@@ -53,3 +53,166 @@
 2025-10-26 20:43:30,856 [INFO] Esperando 5 minutos...
 
 2025-10-26 20:45:09,357 [INFO] Documento encontrado: ID=807288, URL_PDF=https://app2.bsale.cl/view/18790/a23353ffe12e.pdf, Fecha_Procesado=2025-10-26T20:43:30.853756
+2025-10-26 21:55:52,001 [INFO] Documento encontrado: ID=807288, URL_PDF=https://app2.bsale.cl/view/18790/a23353ffe12e.pdf, Fecha_Procesado=2025-10-26T20:43:30.853756
+2025-10-26 21:56:34,139 [INFO] Registros eliminados.
+2025-10-26 21:56:45,468 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 21:56:47,737 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 21:56:47,738 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 21:56:56,577 [ERROR] Error al imprimir documento 807288: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-10-26 21:56:56,588 [INFO] Esperando 5 minutos...
+
+2025-10-26 22:03:36,528 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 22:03:38,474 [INFO] No hay documentos nuevos.
+2025-10-26 22:03:38,475 [INFO] Esperando 5 minutos...
+
+2025-10-26 22:03:58,776 [INFO] Registros eliminados.
+2025-10-26 22:04:06,688 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 22:04:08,250 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 22:04:08,251 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 22:04:16,876 [ERROR] Error al imprimir documento 807288: Unable to get page count. Is poppler installed and in PATH?
+2025-10-26 22:04:16,887 [INFO] Esperando 5 minutos...
+
+2025-10-26 22:09:16,889 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 22:09:18,637 [INFO] No hay documentos nuevos.
+2025-10-26 22:09:18,637 [INFO] Esperando 5 minutos...
+
+2025-10-26 22:16:21,233 [INFO] Registros eliminados.
+2025-10-26 22:16:33,948 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 22:16:36,294 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 22:16:36,294 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 22:16:42,847 [INFO] Imprimiendo en Windows en impresora: XP-58IIH
+2025-10-26 22:16:43,336 [INFO] Página 1 enviada a la impresora XP-58IIH
+2025-10-26 22:16:43,392 [INFO] Documento impreso en XP-58IIH
+2025-10-26 22:16:43,398 [INFO] Esperando 5 minutos...
+
+2025-10-26 22:38:15,506 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 22:38:16,670 [INFO] No hay documentos nuevos.
+2025-10-26 22:38:16,671 [INFO] Esperando 5 minutos...
+
+2025-10-26 22:38:33,535 [INFO] Registros eliminados.
+2025-10-26 22:38:43,067 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 22:38:44,114 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 22:38:44,115 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 22:38:53,389 [ERROR] Error al imprimir documento 807288: name 'registro' is not defined
+2025-10-26 22:38:53,402 [INFO] Esperando 5 minutos...
+
+2025-10-26 22:40:08,551 [INFO] Registros eliminados.
+2025-10-26 22:40:15,343 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 22:40:16,472 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 22:40:16,472 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 22:40:28,373 [ERROR] Error al imprimir documento 807288: No backend available
+2025-10-26 22:40:28,384 [INFO] Esperando 5 minutos...
+
+2025-10-26 22:48:29,731 [INFO] Registros eliminados.
+2025-10-26 22:48:44,889 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 22:48:46,019 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 22:48:46,020 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 22:48:56,841 [ERROR] Error al imprimir documento 807288: No backend available
+2025-10-26 22:48:56,849 [INFO] Esperando 5 minutos...
+
+2025-10-26 22:54:44,454 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 22:54:45,551 [INFO] No hay documentos nuevos.
+2025-10-26 22:54:45,552 [INFO] Esperando 5 minutos...
+
+2025-10-26 22:55:09,645 [INFO] Registros eliminados.
+2025-10-26 22:55:09,645 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 22:55:10,639 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 22:55:10,639 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 22:55:21,500 [ERROR] Error al imprimir documento 807288: No backend available
+2025-10-26 22:55:21,506 [INFO] Esperando 5 minutos...
+
+2025-10-26 22:58:18,515 [INFO] Registros eliminados.
+2025-10-26 22:58:18,516 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 22:58:19,669 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 22:58:19,670 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 22:58:32,646 [ERROR] Error al imprimir documento 807288: No backend available
+2025-10-26 22:58:32,654 [INFO] Esperando 5 minutos...
+
+2025-10-26 23:37:11,740 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 23:37:12,859 [INFO] No hay documentos nuevos.
+2025-10-26 23:37:12,860 [INFO] Esperando 5 minutos...
+
+2025-10-26 23:37:28,454 [INFO] Registros eliminados.
+2025-10-26 23:37:28,455 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 23:37:29,993 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 23:37:29,993 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 23:37:36,838 [INFO] Imprimiendo en Windows en impresora: XP-58IIH
+2025-10-26 23:37:37,143 [INFO] Página 1 enviada a la impresora XP-58IIH
+2025-10-26 23:37:37,148 [INFO] Documento impreso en XP-58IIH
+2025-10-26 23:37:37,157 [INFO] Esperando 5 minutos...
+
+2025-10-26 23:46:35,933 [INFO] Registros eliminados.
+2025-10-26 23:46:35,933 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 23:46:37,088 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 23:46:37,088 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 23:46:42,373 [INFO] Imprimiendo en Windows en impresora: XP-58IIH
+2025-10-26 23:46:42,737 [INFO] Página 1 enviada a la impresora XP-58IIH
+2025-10-26 23:46:42,742 [INFO] Documento impreso en XP-58IIH
+2025-10-26 23:46:42,750 [INFO] Esperando 5 minutos...
+
+2025-10-26 23:51:42,752 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 23:51:44,487 [INFO] No hay documentos nuevos.
+2025-10-26 23:51:44,487 [INFO] Esperando 5 minutos...
+
+2025-10-26 23:59:41,802 [INFO] Registros eliminados.
+2025-10-26 23:59:41,803 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-26 23:59:43,311 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-26 23:59:43,312 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-26 23:59:49,153 [INFO] Imprimiendo en Windows en impresora: XP-58IIH
+2025-10-26 23:59:49,409 [INFO] Página 1 enviada a la impresora XP-58IIH
+2025-10-26 23:59:49,503 [INFO] Documento impreso en XP-58IIH
+2025-10-26 23:59:49,510 [INFO] Esperando 5 minutos...
+
+2025-10-27 00:00:53,797 [INFO] Registros eliminados.
+2025-10-27 00:00:53,797 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761534000
+2025-10-27 00:00:54,896 [INFO] No hay documentos nuevos.
+2025-10-27 00:00:54,897 [INFO] Esperando 5 minutos...
+
+2025-10-27 00:01:26,063 [INFO] Registros eliminados.
+2025-10-27 00:01:26,063 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761534000
+2025-10-27 00:01:27,156 [INFO] No hay documentos nuevos.
+2025-10-27 00:01:27,157 [INFO] Esperando 5 minutos...
+
+2025-10-27 00:05:35,648 [INFO] Registros eliminados.
+2025-10-27 00:05:35,650 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761534000
+2025-10-27 00:05:36,700 [INFO] No hay documentos nuevos.
+2025-10-27 00:05:36,701 [INFO] Esperando 5 minutos...
+
+2025-10-27 00:10:33,649 [INFO] Registros eliminados.
+2025-10-27 00:10:33,649 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-27 00:10:34,688 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-27 00:10:34,689 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-27 00:10:38,905 [INFO] Imprimiendo en Windows en impresora: XP-58IIH
+2025-10-27 00:10:39,111 [INFO] Página 1 enviada a la impresora XP-58IIH
+2025-10-27 00:10:39,196 [INFO] Documento impreso en XP-58IIH
+2025-10-27 00:10:39,202 [INFO] Esperando 5 minutos...
+
+2025-10-27 00:15:39,204 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-27 00:15:40,354 [INFO] No hay documentos nuevos.
+2025-10-27 00:15:40,355 [INFO] Esperando 5 minutos...
+
+2025-10-27 00:20:40,357 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-27 00:20:41,411 [INFO] No hay documentos nuevos.
+2025-10-27 00:20:41,411 [INFO] Esperando 5 minutos...
+
+2025-10-27 00:25:41,413 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-27 00:25:42,472 [INFO] No hay documentos nuevos.
+2025-10-27 00:25:42,472 [INFO] Esperando 5 minutos...
+
+2025-10-27 00:30:42,473 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-27 00:30:43,435 [INFO] No hay documentos nuevos.
+2025-10-27 00:30:43,436 [INFO] Esperando 5 minutos...
+
+2025-10-27 00:35:43,437 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-27 00:35:44,480 [INFO] No hay documentos nuevos.
+2025-10-27 00:35:44,481 [INFO] Esperando 5 minutos...
+
+2025-10-27 00:41:41,748 [INFO] Registros eliminados.
+2025-10-27 00:41:41,750 [INFO] Consultando: https://api.bsale.io/v1/documents.json?emissiondate=1761447600
+2025-10-27 00:41:42,882 [INFO] Se encontraron 1 documentos nuevos.
+2025-10-27 00:41:42,883 [INFO] Procesando documento 807288 - PDF: https://app2.bsale.cl/view/18790/a23353ffe12e.pdf
+2025-10-27 00:41:47,830 [INFO] Imprimiendo en Windows en impresora: XP-58IIH
+2025-10-27 00:41:48,080 [INFO] Página 1 enviada a la impresora XP-58IIH
+2025-10-27 00:41:48,160 [INFO] Documento impreso en XP-58IIH
+2025-10-27 00:41:48,166 [INFO] Esperando 5 minutos...
+
