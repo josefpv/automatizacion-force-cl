@@ -129,7 +129,7 @@ def enviar_comando_corte_win(printer_name):
             try:
                 win32print.WritePrinter(hPrinter, seq)
             except Exception:
-                # ignorar secuencia fallida y probar la siguiente
+                # ignora secuencia fallida y prueba la siguiente
                 continue
 
         win32print.EndPagePrinter(hPrinter)
